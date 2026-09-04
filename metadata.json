@@ -1,0 +1,6 @@
+{
+  "name": "LensMind AI",
+  "description": "Camera-first AI learning app: point, scan, understand, explore deeper, and learn interactively.",
+  "requestFramePermissions": ["CAMERA"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
